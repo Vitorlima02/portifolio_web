@@ -1,0 +1,65 @@
+    h1 {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: #94A187;
+    }
+    
+    body {
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        background-color: #312F2F;
+        color: #94A187;
+    }
+    
+    .text {
+        font-size: 16px;
+    }
+    
+    li {
+        color: #94A187;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    a:visited {
+        color: #94A187
+    }
+    
+    .skills {
+        font-weight: 200;
+    }
+    
+    .skills1 {
+        font-weight: 300;
+    }
+    
+    .skills2 {
+        font-weight: 400;
+    }
+    
+    .skills3 {
+        font-weight: 500;
+    }
+    
+    .skills4 {
+        font-weight: 600;
+    }
+    /* link que ainda não foi visitado
+a:link {
+    color: red;
+ }
+ 
+ link que foi visitado
+ a:visited {
+     color: green;
+ }
+ 
+ mouse over
+ a:hover {
+     color: #000000;
+ }
+ 
+ link selecionado
+ a:active {
+     color: blue;
+ } */
